@@ -14,7 +14,7 @@ If you want to give a talk or tutorial about a specific topic, raise your voice 
 
 If you want to join us, apply to be a volunteer here.
 
-Also, take a look into our Code of Conduct.
+Also, take a look into our [Code of Conduct](https://opensciencelabs.org/guidelines/coc/).
 
 We need help in areas, such as:
 
