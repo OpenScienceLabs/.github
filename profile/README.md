@@ -16,18 +16,8 @@ If you want to join us, apply to be a volunteer here.
 
 Also, take a look into our [Code of Conduct](https://opensciencelabs.org/guidelines/coc/).
 
-We need help in areas, such as:
-
-* DevOps
-* Articles
-* Videos
-* Community Management
-* Social Media
-* Diversity, Equity and Inclusion
-* Events
-* Documentation
-* Mentoring
-* Project Managements
+We need help in areas, such as: DevOps; Articles; Videos; Community Management; Social Media; 
+Diversity, Equity and Inclusion, Events, Documentation, Mentoring, Project Managements, etc
 
 Join our community on [discord](https://opensciencelabs.org/discord).
 Learn more and contribute on [GitHub](https://github.com/opensciencelabs).
