@@ -1,6 +1,6 @@
 # Open Science Labs
 
-Open science labs is a community that aims to gather people from all parts of the world, specially from latin america countries and create an open space for teaching, learning and sharing topics around open science and computational tools. An english group is very important in this context because it increases the possibilities of collaboration in open projects.
+Open science labs is a community that aims to gather people from all parts of the world, with focus on Latin America countries (but not restricted to that) and aims to create an open space for teaching, learning and sharing topics around open science and computational tools. Additionally, Open Science Labs, with its community, develops some tools that helps real problems and needs, and collaborates to other projects and work groups in order to improve tools and technologies and, at the same time, creates opportunities for people from Latin America (but not restricted to this region) to participate into international projects.
 
 ## Community
 
