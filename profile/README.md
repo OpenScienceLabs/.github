@@ -2,7 +2,7 @@
 
 Open science labs is a community that aims to gather people from all parts of the world, specially from latin america countries and create an open space for teaching, learning and sharing topics around open science and computational tools. An english group is very important in this context because it increases the possibilities of collaboration in open projects.
 
-## Comunity
+## Community
 
 We are using discord to organize our community. There you can decide which group you want to join, for example python, c++, compilers, open science, devops, languages (English, Spanish) , etc.
 
