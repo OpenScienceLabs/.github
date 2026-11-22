@@ -14,7 +14,7 @@ If you want to give a talk or tutorial about a specific topic, raise your voice 
 
 If you want to join us, apply to be a volunteer here.
 
-Also, take a look into our [Code of Conduct](https://opensciencelabs.org/guidelines/coc/).
+Also, take a look into our [Code of Conduct](https://opensciencelabs.org/about/coc/).
 
 We need help in areas, such as: DevOps; Articles; Videos; Community Management; Social Media; 
 Diversity, Equity and Inclusion, Events, Documentation, Mentoring, Project Managements, etc
@@ -25,9 +25,9 @@ Learn more and contribute on [GitHub](https://github.com/opensciencelabs).
 ## Roadmap
 
 If you are interested in the Open Science Labs next steps, please check our 
-[Roadmap](https://opensciencelabs.org/guidelines/roadmap/roadmap/).
+[Roadmap](https://opensciencelabs.org/about/roadmap/).
 
 ## Governance
 
 For more information about our project governance, please check 
-[governance document](https://opensciencelabs.org/guidelines/governance/governance/).
+[governance document](https://opensciencelabs.org/about/governance/).
